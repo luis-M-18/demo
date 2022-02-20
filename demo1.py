@@ -1,0 +1,5 @@
+x= int(input("Ingrese valor: "))
+y= int(input("Ingrese valor: "))
+suma = (x + y)
+print("El valor total es:", suma)
+print("...")
